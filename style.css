@@ -1,0 +1,89 @@
+<style>
+
+		a {
+			color: white;
+			text-decoration: none;
+			font-family: Segoe UI;
+		}
+			.clr {
+				background-color: #3b5998;
+				color: white;
+				margin-left: -8px;
+				margin-top: -28px;
+				margin-right: -8px;
+				margin-bottom: -10px;
+			}
+			#button1 {
+				background-color: #6A5ACD;
+				border: 4px solid #3b5998;
+				color: white;
+				padding: 3px;
+				size: 20px;
+				cursor: pointer;
+			}
+			
+			#second {
+				padding: 20px;
+				text-align: right;
+				margin-right: 300px;
+			}
+			#bg {
+				 font-family: Segoe UI;
+				 background-color: #dfe3ee;
+			}
+			.size1 {
+				border-radius: 5px;
+				height: 30px;
+				border: 1px solid silver;
+				padding: 6px;
+			}
+			#pad {
+				padding-top: 5px;
+			}
+			#mar1 {
+				margin-left: 180px;
+				padding: 6px;
+				margin-bottom: -40px;
+				font-size: 40px;
+			}
+			.mar2 {
+				margin-right: 300px;
+			}
+			.mar3 {
+				margin-right: 700px;
+			}
+			#four {
+				font-family: Helvetica;
+				color:  #4267b2;
+				padding-top: 50px;
+				margin-left: 200px;
+
+			}
+			.left {
+ 				float: left;
+ 				padding: 0px 80px 30px;
+			}
+			.link {
+				color: #4267b2;
+				font-family: Helvetica;
+				font-size: 13px;
+			}
+			.five {
+				
+				padding: 2px;
+				font-size: 12px; 
+			}
+			.btn {
+			    border: 1px solid grey;
+			    background-color: #2e8b57;
+			    padding: 10px 40px;
+			    font-size: 19px;
+			    cursor: pointer;
+			    color: white;
+			    border-radius: 5px;
+			}
+			.right{
+				float:right;
+				clear: both;
+			}
+		</style>
